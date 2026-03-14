@@ -13,3 +13,17 @@ Key contributions include:
 - Identified methodological differences across provinces:
   - Universal Kriging captured stronger spatial trends in heterogeneous regions (e.g., Jambi).
   - Ordinary Kriging preserved local variability in more homogeneous areas (e.g., Riau, South Sumatra).
+
+This project demonstrates how geostatistical modeling supports peatland monitoring, hydrological assessment, and wildfire mitigation strategies through spatially informed decision-making.
+
+This paper is under review for SIML 2026.
+Other members:
+
+Giovaldi Ramadhan
+
+Susi Komalasari
+
+Ghonia Millata Mallia Shofa
+
+Meita Puteri Handayani
+
