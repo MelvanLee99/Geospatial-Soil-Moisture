@@ -16,7 +16,6 @@ Key contributions include:
 
 This project demonstrates how geostatistical modeling supports peatland monitoring, hydrological assessment, and wildfire mitigation strategies through spatially informed decision-making.
 
-This paper is under review for SIML 2026.
 Other members:
 
 Giovaldi Ramadhan
